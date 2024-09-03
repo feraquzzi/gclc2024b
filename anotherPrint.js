@@ -162,6 +162,8 @@ firebase.auth().onAuthStateChanged((user) => {
                             <i class="fa fa-print"></i>
                             Print Slip
                             </a>
+
+                             <button type="button" onclick="downloadPDF()">Download PDF</button>
                         </div>
                     </div>
     
