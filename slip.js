@@ -109,8 +109,8 @@ firebase.auth().onAuthStateChanged((user) => {
                                     1. Selections will be on first come first serve basis.<br>
                                     2. There are limited number of slots for each course, your final course will depend on the two (2) choices you made.<br>
                                     3. There will be screening for all courses, hence you must bring your acknowledgement slip to the address above for screening.<br>
-                                    4. <b style="color: red;">Registration closes on Sunday, 8th, September 2024 11:59pm</b>.<br/>
-                                    5. <b style="color: teal;">Screening starts Monday 9th, September 2024 to Wednesday, 11th September 2024. 10:00am - 4:00pm daily</b>
+                                    4. <b style="color: red;">Registration closes on Tuesday, 10th, September 2024 11:59pm</b>.<br/>
+                                    5. <b style="color: teal;">Screening starts Wednesday 11th, September 2024 to Friday, 13th September 2024. 10:00am - 4:00pm daily</b>
                                     <br>
                                     <br>
                                     <b>Screening Schedule</b>
